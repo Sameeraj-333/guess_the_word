@@ -1,0 +1,16 @@
+body{
+    background-image:radial-gradient(rgb(0, 247, 255), rgb(231, 71, 231), rgb(228, 29, 201));
+}
+#player1_name{
+    margin-top: 33px;
+    margin-bottom: -55px;
+    margin-left: 20px;
+}
+#player2_name{
+    margin-top: 60px;
+    margin-bottom: -60px;
+    margin-left: 20px;
+}
+#player1_score{
+    
+}
